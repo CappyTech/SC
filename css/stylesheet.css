@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'minecraftbold';
+    src: url('../fonts/minecraft-bold.woff2') format('woff2'),
+         url('../fonts/minecraft-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'minecraft';
+    src: url('../fonts/minecraft.woff2') format('woff2'),
+         url('../fonts/minecraft.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    font-family: 'minecraft';
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.minecraft {
+    font-family: 'minecraft';
+}
+
+.minecraft-bold {
+    font-family: 'minecraftbold';
+}
+
+.courier {
+    font-family: 'Courier New', Courier, monospace;
+}
