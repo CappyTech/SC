@@ -35,3 +35,8 @@ p {
 .courier {
     font-family: 'Courier New', Courier, monospace;
 }
+
+.adventure-background {
+    background-image: url('../images/Screenshot\ \(11\).png');
+    background-size: cover;
+}
