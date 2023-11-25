@@ -40,3 +40,229 @@ p {
     background-image: url('../images/Screenshot\ \(11\).png');
     background-size: cover;
 }
+
+/* Minecraft Green */
+.minecraft-green {
+    color: #76b947; /* Text */
+}
+
+.bg-minecraft-green {
+    background-color: #76b947; /* Background */
+}
+
+.border-minecraft-green {
+    border-color: #76b947; /* Border */
+}
+
+/* Bitcoin Orange */
+.bitcoin-orange {
+    color: #f7931a; /* Text */
+}
+
+.bg-bitcoin-orange {
+    background-color: #f7931a; /* Background */
+}
+
+.border-bitcoin-orange {
+    border-color: #f7931a; /* Border */
+}
+
+/* Earthy Brown (Minecraft) */
+.earthy-brown {
+    color: #563c1c; /* Text */
+}
+
+.bg-earthy-brown {
+    background-color: #563c1c; /* Background */
+}
+
+.border-earthy-brown {
+    border-color: #563c1c; /* Border */
+}
+
+/* Digital Grey (Bitcoin) */
+.digital-grey {
+    color: #4d4d4d; /* Text */
+}
+
+.bg-digital-grey {
+    background-color: #4d4d4d; /* Background */
+}
+
+.border-digital-grey {
+    border-color: #4d4d4d; /* Border */
+}
+
+/* Utility Classes */
+.text-minecraft-green { color: #76b947; }
+.text-bitcoin-orange { color: #f7931a; }
+.text-earthy-brown { color: #563c1c; }
+.text-digital-grey { color: #4d4d4d; }
+
+.bg-minecraft-green { background-color: #76b947; }
+.bg-bitcoin-orange { background-color: #f7931a; }
+.bg-earthy-brown { background-color: #563c1c; }
+.bg-digital-grey { background-color: #4d4d4d; }
+
+.border-minecraft-green { border-color: #76b947; }
+.border-bitcoin-orange { border-color: #f7931a; }
+.border-earthy-brown { border-color: #563c1c; }
+.border-digital-grey { border-color: #4d4d4d; }
+
+/* Redstone Red */
+.redstone-red {
+    color: #ff0000; /* Text */
+}
+
+.bg-redstone-red {
+    background-color: #ff0000; /* Background */
+}
+
+.border-redstone-red {
+    border-color: #ff0000; /* Border */
+}
+
+/* Gold Yellow */
+.gold-yellow {
+    color: #ffd700; /* Text */
+}
+
+.bg-gold-yellow {
+    background-color: #ffd700; /* Background */
+}
+
+.border-gold-yellow {
+    border-color: #ffd700; /* Border */
+}
+
+/* Diamond Blue */
+.diamond-blue {
+    color: #55ffff; /* Text */
+}
+
+.bg-diamond-blue {
+    background-color: #55ffff; /* Background */
+}
+
+.border-diamond-blue {
+    border-color: #55ffff; /* Border */
+}
+
+/* Iron Grey */
+.iron-grey {
+    color: #bcbcbc; /* Text */
+}
+
+.bg-iron-grey {
+    background-color: #bcbcbc; /* Background */
+}
+
+.border-iron-grey {
+    border-color: #bcbcbc; /* Border */
+}
+
+/* Enchanted Purple */
+.enchanted-purple {
+    color: #7d3cff; /* Text */
+}
+
+.bg-enchanted-purple {
+    background-color: #7d3cff; /* Background */
+}
+
+.border-enchanted-purple {
+    border-color: #7d3cff; /* Border */
+}
+
+/* Utility Classes */
+.text-redstone-red { color: #ff0000; }
+.text-gold-yellow { color: #ffd700; }
+.text-diamond-blue { color: #55ffff; }
+.text-iron-grey { color: #bcbcbc; }
+.text-enchanted-purple { color: #7d3cff; }
+
+.bg-redstone-red { background-color: #ff0000; }
+.bg-gold-yellow { background-color: #ffd700; }
+.bg-diamond-blue { background-color: #55ffff; }
+.bg-iron-grey { background-color: #bcbcbc; }
+.bg-enchanted-purple { background-color: #7d3cff; }
+
+.border-redstone-red { border-color: #ff0000; }
+.border-gold-yellow { border-color: #ffd700; }
+.border-diamond-blue { border-color: #55ffff; }
+.border-iron-grey { border-color: #bcbcbc; }
+.border-enchanted-purple { border-color: #7d3cff; }
+
+
+/* Gold Orange */
+.gold-orange {
+    color: #ffa500; /* Text */
+}
+
+.bg-gold-orange {
+    background-color: #ffa500; /* Background */
+}
+
+.border-gold-orange {
+    border-color: #ffa500; /* Border */
+}
+
+/* Utility Classes */
+.text-gold-orange { color: #ffa500; }
+.bg-gold-orange { background-color: #ffa500; }
+.border-gold-orange { border-color: #ffa500; }
+
+/* Minecraft Diamond Blue-Green */
+.diamond-blue-green {
+    color: #5DE2A5; /* Text */
+}
+
+.bg-diamond-blue-green {
+    background-color: #5DE2A5; /* Background */
+}
+
+.border-diamond-blue-green {
+    border-color: #5DE2A5; /* Border */
+}
+
+/* Utility Classes */
+.text-diamond-blue-green { color: #5DE2A5; }
+.bg-diamond-blue-green { background-color: #5DE2A5; }
+.border-diamond-blue-green { border-color: #5DE2A5; }
+
+/* Lighter Diamond Blue-Green */
+.light-diamond-blue-green {
+    color: #7FE4B5; /* Text */
+}
+
+.bg-light-diamond-blue-green {
+    background-color: #7FE4B5; /* Background */
+}
+
+.border-light-diamond-blue-green {
+    border-color: #7FE4B5; /* Border */
+}
+
+/* Utility Classes for Lighter Shade */
+.text-light-diamond-blue-green { color: #7FE4B5; }
+.bg-light-diamond-blue-green { background-color: #7FE4B5; }
+.border-light-diamond-blue-green { border-color: #7FE4B5; }
+
+/* Darker Diamond Blue-Green */
+.dark-diamond-blue-green {
+    color: #47B28F; /* Text */
+}
+
+.bg-dark-diamond-blue-green {
+    background-color: #47B28F; /* Background */
+}
+
+.border-dark-diamond-blue-green {
+    border-color: #47B28F; /* Border */
+}
+
+/* Utility Classes for Darker Shade */
+.text-dark-diamond-blue-green { color: #47B28F; }
+.bg-dark-diamond-blue-green { background-color: #47B28F; }
+.border-dark-diamond-blue-green { border-color: #47B28F; }
+
